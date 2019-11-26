@@ -3,7 +3,7 @@ package com.mkyong.examples;
 public class MagicBuilder {
 
     public static int getLucky() {
-        return 9;
+        return 7;
     }
 
 }
